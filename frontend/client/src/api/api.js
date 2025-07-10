@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://workoai-assignment-1.onrender.com';
 
 // 1. Create a new candidate
 export const createCandidate = async (candidateData) => {
